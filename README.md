@@ -16,16 +16,16 @@
 
 
 
-##  Projects
+## Projects
 - [Project 1](https://link-to-your-project1.com) - A brief description of what this project does.
 - [Project 2](https://link-to-your-project2.com) - A brief description of what this project does.
 - [Project 3](https://link-to-your-project3.com) - A brief description of what this project does.
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
+## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 
