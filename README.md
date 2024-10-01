@@ -33,7 +33,7 @@
 <div>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/netbeans.png" alt="NetBeans" />
+   <img src="https://img.icons8.com/color/48/000000/netbeans.png" alt="NetBeans" />
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" />
 </div>
