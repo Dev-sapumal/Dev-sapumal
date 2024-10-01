@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vihanga Sapumal
 
-![Header Image](![image]([https://github.com/user-attachments/assets/65dd1553-5e99-4fb6-89c1-5d078af3a82d](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif))
+![Header Image](https://thumbs.dreamstime.com/b/iii-186332041.jpg)
 )
 
 ## 🚀 About Me
