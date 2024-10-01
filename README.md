@@ -3,7 +3,7 @@
 ![Header Image](https://i.gifer.com/origin/a7/a7b6de0113f0a8fbeea873b577f4c25d_w200.gif)
 )
 
-## 🚀 About Me
+## About Me
 
 
 - 👋 Hi, I’m @Dev-sapumal
@@ -14,12 +14,9 @@
 - 😄 Pronouns: Dev_vs
 - ⚡ Fun fact: Nothing...
 
-## 🛠️ Technologies & Tools
-![Technology ](https://img.shields.io/badge/Technology1-<Color>?style=flat-square&logo=<Logo>&logoColor=white) 
-![Technology ](https://img.shields.io/badge/Technology2-<Color>?style=flat-square&logo=<Logo>&logoColor=white) 
-![Technology ](https://img.shields.io/badge/Technology3-<Color>?style=flat-square&logo=<Logo>&logoColor=white)
 
-## 🌟 Projects
+
+##  Projects
 - [Project 1](https://link-to-your-project1.com) - A brief description of what this project does.
 - [Project 2](https://link-to-your-project2.com) - A brief description of what this project does.
 - [Project 3](https://link-to-your-project3.com) - A brief description of what this project does.
@@ -30,8 +27,6 @@
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://your-portfolio.com)
 
 
 
