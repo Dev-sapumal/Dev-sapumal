@@ -12,7 +12,8 @@
 - 😄 Pronouns: Dev_vs
 - ⚡ Fun fact: Nothing...
 
-## Programming Languages
+## Followed 
+
 <div>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
@@ -24,6 +25,17 @@
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" />
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" />
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+</div>
+
+## Used Tools
+<div>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/netbeans.png" alt="NetBeans" />
+  <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" />
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" />
 </div>
 
 ## Projects
