@@ -2,15 +2,6 @@
 
 ![Header Image](https://i.gifer.com/origin/a7/a7b6de0113f0a8fbeea873b577f4c25d_w200.gif)
 
-## About Me
-
-- 👋 Hi, I’m dev_vs
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on U
-- 📫 How to reach me 404
-- 😄 Pronouns: Dev_vs
-- ⚡ Fun fact: Nothing...
 
 ## Followed 
 
@@ -33,11 +24,21 @@
 <div>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-   <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="NetBeans" />
+   <img src="https://img.icons8.com/?size=48&id=4djt356tq8UO&format=png&color=000000" alt="NetBeans" />
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" />
 </div>
 
+## About Me
+
+- 👋 Hi, I’m dev_vs
+- 👀 I’m interested in Coding...
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on U
+- 📫 How to reach me 404
+- 😄 Pronouns: Dev_vs
+- ⚡ Fun fact: Nothing...
+  
 ## Projects
 - [Project 1](https://link-to-your-project1.com) - A brief description of what this project does.
 - [Project 2](https://link-to-your-project2.com) - A brief description of what this project does.
