@@ -40,11 +40,8 @@
 - ⚡ Fun fact: Nothing...
   
 ## Projects
-- [Project 1](https://link-to-your-project1.com) - A brief description of what this project does.
-- [Project 2](https://link-to-your-project2.com) - A brief description of what this project does.
-- [Project 3](https://link-to-your-project3.com) - A brief description of what this project does.
+- [NorthPolar Adventure](https://link-to-your-project1.com) - 
+- [Hotel Asia Online](https://link-to-your-project2.com) - 
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-## Connect
