@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Vihanga Sapumal
 
-
+![Header Image](![image](https://github.com/user-attachments/assets/65dd1553-5e99-4fb6-89c1-5d078af3a82d)
+)
 
 ## 🚀 About Me
 
