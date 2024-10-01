@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vihanga Sapumal
 
-![Header Image](https://thumbs.dreamstime.com/b/iii-186332041.jpg)
+![Header Image](https://i.gifer.com/origin/a7/a7b6de0113f0a8fbeea873b577f4c25d_w200.gif)
 )
 
 ## 🚀 About Me
